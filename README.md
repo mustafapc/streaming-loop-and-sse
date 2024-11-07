@@ -1,1 +1,1 @@
-this is a http server with streaming loop in http://localhost:8080/stream which will print some message every second and sse in http://localhost:8080/html in erlang and cowboy
+this is a http server with streaming loop in http://localhost:8080/stream which will print some message every second and sse in http://localhost:8080/html in erlang cowboy and htmx
